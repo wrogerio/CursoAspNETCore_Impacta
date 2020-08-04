@@ -1,0 +1,56 @@
+﻿@model IEnumerable<DesenvolvimentoWeb.Projeto02.Models.Evento>
+
+@{
+    ViewData["Title"] = "ListarEventos";
+}
+
+<h2>Listar Eventos</h2>
+
+<p>
+    <a asp-action="IncluirEvento">Create New</a>
+</p>
+<table class="table table-bordered table-condensed">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Foto)
+            </th>
+            <th>
+                #
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Evento item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    <span>@item.Data.ToShortDateString()</span>
+                </td>
+                <td>
+                    <span>@item.Preco.ToString("c")</span>
+                </td>
+                <td style="width: 250px;">
+                    <img title="@item.Descricao" src="@Url.Action("BuscarFoto", "Eventos", new { id = item.Id})"  class="img-responsive" />
+                </td>
+                <td style="width: 250px; text-align: center">
+                    @Html.ActionLink("Alterar", "AlterarEvento", new { id = item.Id }) |
+                    @Html.ActionLink("Detalhes", "VerDetalhes", new { id = item.Id }) |
+                    @Html.ActionLink("Remover", "RemoverEvento", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

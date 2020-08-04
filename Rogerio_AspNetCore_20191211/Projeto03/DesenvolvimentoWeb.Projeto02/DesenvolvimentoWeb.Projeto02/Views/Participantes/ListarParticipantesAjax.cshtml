@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "ListarParticipantesAjax";
+}
+
+<h2>Listar Participantes por Evento - Ajax</h2>
+
+<form asp-action="ListarParticipantesAjax" asp-controller="Evento" method="get">
+    <div class="row">
+        <div class="form-group">
+            <label></label>
+            <select autofocus id="idEvento" name="idEvento" class="form-control" asp-items="(SelectList)ViewBag.ListaDeEventos">
+                <option value="0">Selecione</option>
+            </select>
+        </div>
+    </div>
+    <div class="row" id="resultado">
+        <div class='alert alert-danger'>Sem nenhum participante</div>
+    </div>
+</form>
+
+@section Scripts{
+    <script src="~/js/jsParticipantes.js"></script>
+}
+
+

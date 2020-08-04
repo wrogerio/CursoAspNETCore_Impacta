@@ -1,0 +1,11 @@
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\build_app\ConsoleApp.deps.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\build_app\ConsoleApp.runtimeconfig.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\build_app\ConsoleApp.runtimeconfig.dev.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\build_app\ConsoleApp.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\build_app\ConsoleApp.pdb
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto01\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb

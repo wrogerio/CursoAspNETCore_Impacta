@@ -1,0 +1,12 @@
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.deps.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.runtimeconfig.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.runtimeconfig.dev.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.pdb
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.csprojAssemblyReference.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.AssemblyInfoInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.AssemblyInfo.cs
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto02\DesenvolvimentoWeb.Projeto02\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto02.pdb

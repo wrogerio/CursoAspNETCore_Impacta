@@ -1,0 +1,11 @@
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\bin\Debug\netcoreapp2.0\ProgramacaoAssincrona.deps.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\bin\Debug\netcoreapp2.0\ProgramacaoAssincrona.runtimeconfig.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\bin\Debug\netcoreapp2.0\ProgramacaoAssincrona.runtimeconfig.dev.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\bin\Debug\netcoreapp2.0\ProgramacaoAssincrona.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\bin\Debug\netcoreapp2.0\ProgramacaoAssincrona.pdb
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\obj\Debug\netcoreapp2.0\ProgramacaoAssincrona.csprojAssemblyReference.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\obj\Debug\netcoreapp2.0\ProgramacaoAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\obj\Debug\netcoreapp2.0\ProgramacaoAssincrona.AssemblyInfoInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\obj\Debug\netcoreapp2.0\ProgramacaoAssincrona.AssemblyInfo.cs
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\obj\Debug\netcoreapp2.0\ProgramacaoAssincrona.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\ProgramacaoAssincrona\obj\Debug\netcoreapp2.0\ProgramacaoAssincrona.pdb

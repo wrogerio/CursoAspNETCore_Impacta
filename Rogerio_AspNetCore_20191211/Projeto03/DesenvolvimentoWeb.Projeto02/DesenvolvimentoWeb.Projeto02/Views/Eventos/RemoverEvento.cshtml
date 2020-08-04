@@ -1,0 +1,37 @@
+﻿@model DesenvolvimentoWeb.Projeto02.Models.Evento
+
+@{
+    ViewData["Title"] = "RemoverEvento";
+}
+
+<h2>Remover Evento</h2>
+
+<h3 class="text-danger">Tem certeza que deseja remover o evento?</h3>
+
+<div class="row">
+    <div class="col-md-6 text-center">
+        <img title="@Model.Descricao" src="@Url.Action("BuscarFoto", "Eventos", new { id = Model.Id})" class="img-responsive" />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <table class="table table-bordered table-condensed">
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Descricao)</td>
+                <td>@Html.DisplayFor(model => model.Descricao)</td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="RemoverEvento">
+            <input type="submit" value="Sim, remover" class="btn btn-danger" /> |
+            <a class="btn btn-default" asp-action="ListarEventos">Não, voltar para a lista</a>
+        </form>
+    </div>
+</div>
+
+
+

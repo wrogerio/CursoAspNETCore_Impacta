@@ -1,0 +1,20 @@
+@using Microsoft.AspNetCore.Identity
+@using DesenvolvimentoWeb.Projeto02.Models
+
+@inject SignInManager<Usuario> SignInManager
+@inject UserManager<Usuario> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a asp-area="" asp-controller="Usuarios" asp-action="Index">Bem vindo, @User.Identity.Name</a></li>
+        <li><a asp-area="" asp-controller="Usuarios" asp-action="Logout">Log Out</a></li>
+    </ul>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a asp-area="" asp-controller="Usuarios" asp-action="Registrar">Cadastre-se</a></li>
+        <li><a asp-area="" asp-controller="Usuarios" asp-action="Login">Login</a></li>
+    </ul>
+}

@@ -1,0 +1,45 @@
+﻿@model DesenvolvimentoWeb.Projeto02.Models.Evento
+
+@{
+    ViewData["Title"] = "VerDetalhes";
+}
+
+<h2>Detalhes do Evento - @Model.Descricao</h2>
+
+<div>
+    <div class="row">
+        <div class="col-md-6">
+            <img title="@Model.Descricao" src="@Url.Action("BuscarFoto", "Eventos", new { id = Model.Id})" class="img-responsive" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <table class="table table-bordered table-condensed">
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Id)</td>
+                    <td>@Html.DisplayFor(model => model.Id)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Descricao)</td>
+                    <td>@Html.DisplayFor(model => model.Descricao)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Data)</td>
+                    <td>@Html.DisplayFor(model => model.Data)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Local)</td>
+                    <td>@Html.DisplayFor(model => model.Local)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Preco)</td>
+                    <td>@Html.DisplayFor(model => model.Preco)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.MimeType)</td>
+                    <td>@Html.DisplayFor(model => model.MimeType)</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

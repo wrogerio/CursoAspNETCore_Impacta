@@ -1,0 +1,11 @@
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.deps.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.runtimeconfig.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.runtimeconfig.dev.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\bin\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.pdb
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.csprojAssemblyReference.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.AssemblyInfoInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.AssemblyInfo.cs
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto03\DesenvolvimentoWeb.Projeto01\DesenvolvimentoWeb.Projeto01\obj\Debug\netcoreapp2.0\DesenvolvimentoWeb.Projeto01.pdb

@@ -1,0 +1,11 @@
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\build_app\MvcApp.deps.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\build_app\MvcApp.runtimeconfig.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\build_app\MvcApp.runtimeconfig.dev.json
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\build_app\MvcApp.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\build_app\MvcApp.pdb
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\obj\Debug\netcoreapp2.0\MvcApp.csprojAssemblyReference.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\obj\Debug\netcoreapp2.0\MvcApp.csproj.CoreCompileInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\obj\Debug\netcoreapp2.0\MvcApp.AssemblyInfoInputs.cache
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\obj\Debug\netcoreapp2.0\MvcApp.AssemblyInfo.cs
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\obj\Debug\netcoreapp2.0\MvcApp.dll
+C:\Users\no4704\Documents\Rogerio_AspNetCore\Projeto02\MvcApp\obj\Debug\netcoreapp2.0\MvcApp.pdb
